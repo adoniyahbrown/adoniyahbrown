@@ -11,7 +11,7 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 | Skill              | Associated Project         |
 |-----------------------------------------------|-----------------
 | Set Up Home Lab | https://github.com/adoniyahbrown/Set-Up-Home-Lab|
-| Build and configure a firewall| <a href="https://google.com">Detection Lab</a>|
+| Build and configure a firewall| (https://github.com/adoniyahbrown/Build-and-configure-a-firewall/blob/main/README.md)|
 | Vulnerability Assessment On A Network | SOC Automation Lab|
 | Set Up A Penetration Lab | SOC Automation Lab|
 | Create A Incident Response Plan| SOC Automation Lab|
