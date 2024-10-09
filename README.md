@@ -8,14 +8,14 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Set Up Home Lab | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill              | Associated Project         |
+|-----------------------------------------------|-----------------
+| Set Up Home Lab | https://github.com/adoniyahbrown/Set-Up-Home-Lab|
+| Build and configure a firewall| <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Assessment On A Network | SOC Automation Lab|
+| Set Up A Penetration Lab | SOC Automation Lab|
+| Create A Incident Response Plan| SOC Automation Lab|
+| Automate Incident Repsonse With Scripts | SOC Automation Lab |
          
 Set Up Home Lab 
 
