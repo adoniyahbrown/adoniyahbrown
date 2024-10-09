@@ -1,6 +1,6 @@
 # Hello, I'm Adoniyah
 
-I am a upcoming graduate with a profound interest in cyberseucurity  and a dedication to solving complex problems. I am set for graduation for December 2024 with my Bachelors Degerr in Cybersecurity and Information Assurance from Western Governors University.
+I am a upcoming graduate with a profound interest in cyberseucurity  and a dedication to solving complex problems. I am set for graduation for December 2024 with my Bachelors Degree in Cybersecurity and Information Assurance from Western Governors University.
 
 ## Objective
 
