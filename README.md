@@ -12,7 +12,7 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 |-----------------------------------------------|-----------------
 | Set Up Home Lab | https://github.com/adoniyahbrown/Set-Up-Home-Lab|
 | Build and configure a firewall| (https://github.com/adoniyahbrown/Build-and-configure-a-firewall/blob/main/README.md)|
-| Network Traffic Analysis with Wireshark| SOC Automation Lab|
+| Network Traffic Analysis with Wireshark| [(https://github.com/adoniyahbrown/Network-Traffic-Analysis-with-Wireshark)|
 | Implement an IDS/IPS | SOC Automation Lab|
 |Set Up A Penetration Lab| SOC Automation Lab|
 | Create An Incident Response Plan | SOC Automation Lab |
